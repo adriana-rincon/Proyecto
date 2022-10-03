@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "..\\..\\product_card"
+		},
+		{
+			"path": ".."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "proyecto sass_navbar"
+	}
+}
